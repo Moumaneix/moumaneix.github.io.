@@ -1,2 +1,0 @@
-# moumaneix.github.io.
-maths
